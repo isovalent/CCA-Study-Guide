@@ -10,6 +10,7 @@ The aim of this study guide is to help prepare for the [Cilium Certified Associa
 - [Cilium eBPF Datapath - Cilium Docs](https://docs.cilium.io/en/stable/network/ebpf/)
 - [IP Address Management (IPAM) - Cilium Docs](https://docs.cilium.io/en/stable/network/concepts/ipam/)
 - [Cilium Component Overview - Cilium Docs](https://docs.cilium.io/en/stable/overview/component-overview/)
+- [Cilium LoadBalancer IPAM and BGP Service Advertisement](https://isovalent.com/labs/lb-ipam-bgp-service/)
 
 ## eBPF
 - [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/)
@@ -28,19 +29,30 @@ The aim of this study guide is to help prepare for the [Cilium Certified Associa
 - [Setting up Hubble Observability](https://docs.cilium.io/en/latest/gettingstarted/hubble_setup/#hubble-setup)
 - [Layer 7 Protocol Visibility](https://docs.cilium.io/en/stable/observability/visibility/)
 - [Back to Basics – L7 Flow Visibility](https://isovalent.com/videos/back-to-basics-l7-flow-visibility/)
-### Network Policy
+- [Cilium IPv6 Networking and Observability - Lab](https://isovalent.com/labs/ipv6-networking-and-observability/)
 
-- [Identity Based](https://docs.cilium.io/en/stable/security/network/identity/)
+### Network Policy
+- [Identity Based - Cilium Docs](https://docs.cilium.io/en/stable/security/network/identity/)
 - [Zero Trust Security with Cilium](https://isovalent.com/blog/post/zero-trust-security-with-cilium/)
+- [Network Policy - Cilium Docs](https://docs.cilium.io/en/latest/security/policy/)
+- [Policy Enforcement Mode - Cilium Docs](https://docs.cilium.io/en/latest/security/policy/intro/)
+- [Why Kubernetes Network Policy important](https://youtu.be/5sc4R-wk7uo)
+- [Birth of Kubernetes Network Policy](https://youtu.be/x69ofJYr71g)
+- [NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial)
 
 ### Service Mesh
-
--
-
+- [How eBPF will solve Service Mesh – Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh/)
+- [Cilium Service Mesh](https://cilium.io/use-cases/service-mesh/)
+- [Service Mesh Architectures Explained - Sidecar and Beyond](https://youtu.be/j7JKkbAiWuI?si=6jWl3GQ6CjVLHBFJ)
+- [Cilium Service Mesh – Everything You Need to Know](https://isovalent.com/blog/post/cilium-service-mesh/)
+- [Cilium Ingress Controller - Lab](https://isovalent.com/labs/cilium-ingress-controller/)
+- [Cilium Transparent Encryption with IPSec and WireGuard - Lab](https://isovalent.com/labs/cilium-transparent-encryption-with-ipsec-and-wireguard/)
 
 ### Cluster Mesh
-
 -
+-
+-
+
 
 ### BGP and External Networking
 
