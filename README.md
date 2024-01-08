@@ -70,4 +70,3 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 - [Advanced BGP Features - Lab](https://isovalent.com/labs/advanced-bgp-features/)
 - [BGP with Cilium](https://nicovibert.com/2022/07/21/bgp-with-cilium/)
 - [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/)
-- 
