@@ -1,7 +1,7 @@
 # CIlium Certified Associate Study Guide
 
 ![](files/ogimage.jpeg)
-The aim of this study guide is to help prepare for the [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam
+The aim of this study guide is to help the Cilium community prepare for the [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
 
 ### Architecture
 - [Cilium - Rethinking Linux Networking and Security for the Age of Microservices](https://cilium.io/blog/2018/04/24/cilium-security-for-age-of-microservices/)
