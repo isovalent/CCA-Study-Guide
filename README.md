@@ -64,7 +64,6 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 
 
 ### BGP and External Networking
-
 - [Cilium BGP Control Plane](https://docs.cilium.io/en/stable/network/bgp-control-plane/)
 - [BGP on Cilium - Lab](https://isovalent.com/labs/bgp-on-cilium/)
 - [Advanced BGP Features - Lab](https://isovalent.com/labs/advanced-bgp-features/)
