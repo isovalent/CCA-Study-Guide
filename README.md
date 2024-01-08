@@ -1,4 +1,4 @@
-# Certified CIlium Associate Study Guide
+# CIlium Certified Associate Study Guide
 
 ![](files/ogimage.jpeg)
 The aim of this study guide is to help prepare for the [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam
