@@ -6,7 +6,8 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 ### Architecture
 - [Cilium - Rethinking Linux Networking and Security for the Age of Microservices](https://cilium.io/blog/2018/04/24/cilium-security-for-age-of-microservices/)
 - [Cilium 1.0: Bringing the BPF Revolution to Kubernetes Networking and Security](https://cilium.io/blog/2018/04/24/cilium-10/)
-- [Cilium's BPF kernel datapath revamped](https://www.youtube.com/watch?v=u0PGas8D24w)
+- [Cilium Technical Deep Dive: Under the Hood - Talk](https://www.youtube.com/watch?v=UZg_2SXDKis)
+- [Cilium's BPF kernel datapath revamped - Talk](https://www.youtube.com/watch?v=u0PGas8D24w)
 - [Cilium eBPF Datapath - Cilium Docs](https://docs.cilium.io/en/stable/network/ebpf/)
 - [IP Address Management (IPAM) - Cilium Docs](https://docs.cilium.io/en/stable/network/concepts/ipam/)
 - [Cilium Component Overview - Cilium Docs](https://docs.cilium.io/en/stable/overview/component-overview/)
@@ -47,13 +48,26 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 - [Cilium Service Mesh – Everything You Need to Know](https://isovalent.com/blog/post/cilium-service-mesh/)
 - [Cilium Ingress Controller - Lab](https://isovalent.com/labs/cilium-ingress-controller/)
 - [Cilium Transparent Encryption with IPSec and WireGuard - Lab](https://isovalent.com/labs/cilium-transparent-encryption-with-ipsec-and-wireguard/)
+- [Gateway API support - Cilium Docs](https://docs.cilium.io/en/stable/network/servicemesh/gateway-api/gateway-api/)
+- [Cilium Gateway API](https://isovalent.com/labs/gateway-api/)
+- [Advanced Gateway API Use Cases - Lab](https://isovalent.com/labs/advanced-gateway-api-use-cases/)
+- [Ingress Controllers or the Kubernetes Gateway API? Which Is Right for You?](https://thenewstack.io/ingress-controllers-or-the-kubernetes-gateway-api-which-is-right-for-you/)
+- [A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://isovalent.com/blog/post/cilium-gateway-api/)
+- [Cilium Gateway API - Youtube Playlist](https://youtube.com/playlist?list=PLngi_1qThAPCiulGkrufXeN_ibmKZDCia&si=Hijz5I83OuM0Yonr)
 
 ### Cluster Mesh
--
--
--
+- [Cilium Cluster Mesh - Lab](https://isovalent.com/labs/cilium-cluster-mesh/)
+- [Connecting Klusters on the Edge with Deep Dive into Cilium Cluster Mesh - Talk](https://www.youtube.com/watch?v=UcsEVnFtrLY)
+- [An Introduction to Cilium Cluster Mesh](https://www.youtube.com/watch?v=4bJkk7ghx7A)
+- [eCHO episode 41: Cilium Cluster Mesh](https://www.youtube.com/watch?v=VBOONHW65NU)
+- [eCHO Episode 94: Cluster API and Cilium Cluster Mesh](https://m.youtube.com/watch?v=HVqQhMRpUR4&pp=ygUKI2Fic29saXRlbQ%3D%3D)
 
 
 ### BGP and External Networking
 
--
+- [Cilium BGP Control Plane](https://docs.cilium.io/en/stable/network/bgp-control-plane/)
+- [BGP on Cilium - Lab](https://isovalent.com/labs/bgp-on-cilium/)
+- [Advanced BGP Features - Lab](https://isovalent.com/labs/advanced-bgp-features/)
+- [BGP with Cilium](https://nicovibert.com/2022/07/21/bgp-with-cilium/)
+- [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/)
+- 
