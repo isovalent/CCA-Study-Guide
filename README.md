@@ -37,7 +37,7 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 - [Zero Trust Security with Cilium](https://isovalent.com/blog/post/zero-trust-security-with-cilium/)
 - [Network Policy - Cilium Docs](https://docs.cilium.io/en/latest/security/policy/)
 - [Policy Enforcement Mode - Cilium Docs](https://docs.cilium.io/en/latest/security/policy/intro/)
-- [Why Kubernetes Network Policy important](https://youtu.be/5sc4R-wk7uo)
+- [Why is Kubernetes Network Policy important?](https://youtu.be/5sc4R-wk7uo)
 - [Birth of Kubernetes Network Policy](https://youtu.be/x69ofJYr71g)
 - [NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial)
 
