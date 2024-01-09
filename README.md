@@ -28,7 +28,7 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 ### Network Observability
 - [eCHO episode 2: Introduction to Hubble](https://www.youtube.com/live/hD2iJUyIXQw?si=WqWaY7_jN2B-sRz5)
 - [Setting up Hubble Observability](https://docs.cilium.io/en/latest/gettingstarted/hubble_setup/#hubble-setup)
-- [Layer 7 Protocol Visibility](https://docs.cilium.io/en/stable/observability/visibility/)
+- [Layer 7 Protocol Visibility - Cilium Docs](https://docs.cilium.io/en/stable/observability/visibility/)
 - [Back to Basics – L7 Flow Visibility](https://isovalent.com/videos/back-to-basics-l7-flow-visibility/)
 - [Cilium IPv6 Networking and Observability - Lab](https://isovalent.com/labs/ipv6-networking-and-observability/)
 
