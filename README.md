@@ -4,7 +4,7 @@
 The aim of this study guide is to help the Cilium community prepare for the [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
 
 ## About the Certification
-Here is all you need to know about the exam and certification:
+Here is all you need to know about the exam and certification.
 
 - Who is the exam for?
   - The CCA is an entry-level certification certification designed for platform or cloud engineers with interests in networking, security and observability. Ideal candidates may have achieved Kubernetes certifications such as KCNA, CKA, or CKAD or have completed Cilium-specific training.
