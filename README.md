@@ -6,29 +6,29 @@ The aim of this study guide is to help the Cilium community prepare for the [Cil
 ## About the Certification
 Here is all you need to know about the exam and certification:
 
-- Q: Who is the exam for?
-  A: The CCA is an entry-level certification certification designed for platform or cloud engineers with interests in networking, security and observability. Ideal candidates may have achieved Kubernetes certifications such as KCNA, CKA, or CKAD or have completed Cilium-specific training.
+- Who is the exam for?
+  - The CCA is an entry-level certification certification designed for platform or cloud engineers with interests in networking, security and observability. Ideal candidates may have achieved Kubernetes certifications such as KCNA, CKA, or CKAD or have completed Cilium-specific training.
 
 <br>
 
-- Q: How much does the exam cost?
-  A: I expect the exam to cost the same as other associate level exams like the ICA and the PCA - $250
+- How much does the exam cost?
+  - I expect the exam to cost the same as other associate level exams like the ICA and the PCA - $250
 
 <br>
 
-- Q: How long does the exam last?
-  A: Candidates are allowed 90 minutes to complete the exam.
+- How long does the exam last?
+  - Candidates are allowed 90 minutes to complete the exam.
 
 
 <br>
 
-- Q: What score is needed to pass the exam?
-  A: A score of 75% or above must be earned to pass the exam.
+- What score is needed to pass the exam?
+  - A score of 75% or above must be earned to pass the exam.
 
 <br>
 
-- Q: How long is the certification valid for?
-  A: The Certification is valid for 3 years per the Linux Foundation certification rules
+- How long is the certification valid for?
+  - The Certification is valid for 3 years per the Linux Foundation certification rules
 
 ## Study Guide
 In this section, I've put together a bunch of resources that match the Exam blueprint. This should help the Cilium Community get ready and study for the exam effectively.
