@@ -34,7 +34,7 @@ Here is all you need to know about the exam and certification.
 In this section, I've put together a bunch of resources that match the Exam blueprint. This should help the Cilium Community get ready and study for the exam effectively.
 
 ### Architecture - 20%
-**Requirement**
+**Topics**
 - Understand the Role of Cilium in Kubernetes Environments
 - Cilium Architecture
 - IP Address Management (IPAM) with Cilium
@@ -53,7 +53,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Cilium's BPF kernel datapath revamped - Talk](https://www.youtube.com/watch?v=u0PGas8D24w) 📺
 
 ### Network Policy - 18%
-**Requirement**
+**Topics**
 - Interpret Cilium Network Polices and Intent
 - Understand Cilium's Identity-based Network Security Model
 - Policy Enforcement Modes
@@ -74,7 +74,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Network Policy Editor](https://networkpolicy.io/) 📖
 
 ### Service Mesh - 16%
-**Requirement**
+**Topics**
 - Know How to use Ingress or Gateway API for Ingress Routing
 - Service Mesh Use Cases
 - Understand the Benefits of Gateway API over Ingress
@@ -96,7 +96,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Cilium Gateway API - Youtube Playlist](https://youtube.com/playlist?list=PLngi_1qThAPCiulGkrufXeN_ibmKZDCia&si=Hijz5I83OuM0Yonr) 📺
 
 ### Network Observability - 10%
-**Requirement**
+**Topics**
 - Understand the Observability Capabilities of Hubble
 - Enabling Layer 7 Protocol Visibility
 - Know How to Use Hubble from the Command Line or the Hubble UI
@@ -110,7 +110,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Cilium IPv6 Networking and Observability - Lab](https://isovalent.com/labs/ipv6-networking-and-observability/) 🥼
 
 ### Installation and Configuration - 10%
-**Requirement**
+**Topics**
 - Know How to Use Cilium CLI to Query and Modify the Configuration
 - Using Cilium CLI to Install Cilium, Run Connectivity Tests, and Monitor its Status
 
@@ -121,7 +121,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Tutorial: Tips and Tricks to install Cilium](https://isovalent.com/blog/post/tutorial-tips-and-tricks-to-install-cilium/) 📖
 
 ### Cluster Mesh - 10%
-**Requirement**
+**Topics**
 - Understand the Benefits of Cluster Mesh for Multi-cluster Connectivity
 - Achieve Service Discovery and Load Balancing Across Clusters with Cluster Mesh
 
@@ -134,7 +134,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [eCHO Episode 94: Cluster API and Cilium Cluster Mesh](https://m.youtube.com/watch?v=HVqQhMRpUR4&pp=ygUKI2Fic29saXRlbQ%3D%3D) 📺
 
 ### eBPF - 18%
-**Requirement**
+**Topics**
 - Understand the Role of eBPF in Cilium
 - eBPF Key Benefits
 - eBPF-based Platforms versus IPtables-based Platforms
@@ -147,7 +147,7 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Getting started with eBPF - Lab](https://isovalent.com/labs/getting-started-with-ebpf/) 🥼
 
 ### BGP and External Networking 6%
-**Requirement**
+**Topics**
 - Egress Connectivity Requirements
 - Understand Options to Connect Cilium-managed Clusters with External Networks
 
