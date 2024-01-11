@@ -138,3 +138,8 @@ In this section, I've put together a bunch of resources that match the Exam blue
 - [Advanced BGP Features - Lab](https://isovalent.com/labs/advanced-bgp-features/) 🥼
 - [BGP with Cilium](https://nicovibert.com/2022/07/21/bgp-with-cilium/) 📖
 - [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/) 📖
+
+## Next Steps
+Finished this guide and want to learn more? Dive deep into the world of Cilium with more comprehensive [hands-on labs](https://labs-map.isovalent.com/).
+
+![](./files/world-of-cilium.png)
