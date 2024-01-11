@@ -1,13 +1,10 @@
 # CIlium Certified Associate Study Guide
 
 ![](files/ogimage.jpeg)
-The aim of this study guide is to help the Cilium community prepare for the [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
+The aim of this study guide is to help the Cilium community prepare for the CNCF's [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
 
 ## About the Certification
-You can find all you need to know about the Certification on it's official [page](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/).
-
-## Study Guide
-In this section, I've put together a bunch of resources that match the Exam blueprint. This should help the Cilium Community get ready and study for the exam effectively.
+You can find all you need to know about the Certification on its official [page](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/).
 
 ### General Overview
 - [LinuxFoundationX: Introduction to Cilium](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-cilium) 📖
