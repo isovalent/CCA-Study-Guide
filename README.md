@@ -4,31 +4,39 @@
 The aim of this study guide is to help the Cilium community prepare for the CNCF's [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
 
 ## About the Certification
+
 You can find all you need to know about the Certification on its official [page](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/).
 
 ### General Overview
+
 - [LinuxFoundationX: Introduction to Cilium](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-cilium) 📖
 
 ### Installation and Configuration - 10%
-**Topics**
+
+#### Topics
+
 - Know How to Use Cilium CLI to Query and Modify the Configuration
 - Using Cilium CLI to Install Cilium, Run Connectivity Tests, and Monitor its Status
 
-**Resources**
+#### Resources
+
 - [Cilium Quick Installation](https://docs.cilium.io/en/latest/gettingstarted/k8s-install-default/#k8s-install-quick) 📖
 - [eCHO episode 1: Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA&list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC&index=114) 📺
 - [Getting Started with Cilium - Lab](https://isovalent.com/labs/getting-started-with-cilium/) 🥼
 - [Tutorial: Tips and Tricks to install Cilium](https://isovalent.com/blog/post/tutorial-tips-and-tricks-to-install-cilium/) 📖
 
 ### Architecture - 20%
-**Topics**
+
+#### Topics
+
 - Understand the Role of Cilium in Kubernetes Environments
 - Cilium Architecture
 - IP Address Management (IPAM) with Cilium
 - Cilium Component Roles
 - Datapath Models
 
-**Resources**
+#### Resources
+
 - [Getting Started with Cilium - Lab](https://isovalent.com/labs/getting-started-with-cilium/) 🥼
 - [Cilium - Rethinking Linux Networking and Security for the Age of Microservices](https://cilium.io/blog/2018/04/24/cilium-security-for-age-of-microservices/) 📖
 - [Cilium 1.0: Bringing the BPF Revolution to Kubernetes Networking and Security](https://cilium.io/blog/2018/04/24/cilium-10/) 📖
@@ -39,14 +47,17 @@ You can find all you need to know about the Certification on its official [page]
 - [Cilium's BPF kernel datapath revamped - Talk](https://www.youtube.com/watch?v=u0PGas8D24w) 📺
 
 ### Network Policy - 18%
-**Topics**
+
+#### Topics
+
 - Interpret Cilium Network Polices and Intent
 - Understand Cilium's Identity-based Network Security Model
 - Policy Enforcement Modes
 - Policy Rule Structure
 - Kubernetes Network Policies versus Cilium Network Policies
 
-**Resources**
+#### Resources
+
 - [Identity Based - Cilium Docs](https://docs.cilium.io/en/stable/security/network/identity/) 📖
 - [Network Policy Use Cases](https://cilium.io/use-cases/network-policy/) 📖
 - [From IP to identity: making cattle out of pets in cloud native](https://www.cncf.io/blog/2023/07/24/from-ip-to-identity-making-cattle-out-of-pets-in-cloud-native/) 📖
@@ -60,14 +71,17 @@ You can find all you need to know about the Certification on its official [page]
 - [Network Policy Editor](https://networkpolicy.io/) 📖
 
 ### Service Mesh - 16%
-**Topics**
+
+#### Topics
+
 - Know How to use Ingress or Gateway API for Ingress Routing
 - Service Mesh Use Cases
 - Understand the Benefits of Gateway API over Ingress
 - Encrypting Traffic in Transit with Cilium
 - Sidecar-based versus Sidecarless Architectures
 
-**Resources**
+#### Resources
+
 - [How eBPF will solve Service Mesh – Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh/) 📖
 - [Cilium Service Mesh Use Cases](https://cilium.io/use-cases/service-mesh/) 📖
 - [Hello eBPF! Goodbye Sidecars?](https://www.youtube.com/watch?v=0JFd0W2CcMw) 📺
@@ -81,12 +95,15 @@ You can find all you need to know about the Certification on its official [page]
 - [A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://isovalent.com/blog/post/cilium-gateway-api/) 📖
 
 ### Network Observability - 10%
-**Topics**
+
+#### Topics
+
 - Understand the Observability Capabilities of Hubble
 - Enabling Layer 7 Protocol Visibility
 - Know How to Use Hubble from the Command Line or the Hubble UI
 
-**Resources**
+#### Resources
+
 - [eCHO episode 2: Introduction to Hubble](https://www.youtube.com/live/hD2iJUyIXQw?si=WqWaY7_jN2B-sRz5) 📺
 - [Observability Use Cases](https://cilium.io/#observability) 📖
 - [Setting up Hubble Observability](https://docs.cilium.io/en/latest/gettingstarted/hubble_setup/#hubble-setup) 📖
@@ -95,11 +112,14 @@ You can find all you need to know about the Certification on its official [page]
 - [Cilium IPv6 Networking and Observability - Lab](https://isovalent.com/labs/ipv6-networking-and-observability/) 🥼
 
 ### Cluster Mesh - 10%
-**Topics**
+
+#### Topics
+
 - Understand the Benefits of Cluster Mesh for Multi-cluster Connectivity
 - Achieve Service Discovery and Load Balancing Across Clusters with Cluster Mesh
 
-**Resources**
+#### Resources
+
 - [Cilium Cluster Mesh Use Cases](https://cilium.io/use-cases/cluster-mesh/) 📖
 - [Cilium Cluster Mesh - Lab](https://isovalent.com/labs/cilium-cluster-mesh/) 🥼
 - [Connecting Klusters on the Edge with Deep Dive into Cilium Cluster Mesh - Talk](https://www.youtube.com/watch?v=UcsEVnFtrLY) 📺
@@ -108,12 +128,15 @@ You can find all you need to know about the Certification on its official [page]
 - [eCHO Episode 94: Cluster API and Cilium Cluster Mesh](https://m.youtube.com/watch?v=HVqQhMRpUR4&pp=ygUKI2Fic29saXRlbQ%3D%3D) 📺
 
 ### eBPF - 18%
-**Topics**
+
+#### Topics
+
 - Understand the Role of eBPF in Cilium
 - eBPF Key Benefits
 - eBPF-based Platforms versus IPtables-based Platforms
 
-**Resources**
+#### Resources
+
 - [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) 📖
 - [What is eBPF?](https://isovalent.com/books/ebpf/) 📖
 - [CNI Benchmark: Understanding Cilium Network Performance](https://cilium.io/blog/2021/05/11/cni-benchmark/) 📖
@@ -122,11 +145,14 @@ You can find all you need to know about the Certification on its official [page]
 - [Getting started with eBPF - Lab](https://isovalent.com/labs/getting-started-with-ebpf/) 🥼
 
 ### BGP and External Networking 6%
-**Topics**
+
+#### Topics
+
 - Egress Connectivity Requirements
 - Understand Options to Connect Cilium-managed Clusters with External Networks
 
-**Resources**
+#### Resources
+
 - [Cilium BGP Use Cases](https://cilium.io/use-cases/bgp/) 📖
 - [Cilium BGP Control Plane](https://docs.cilium.io/en/stable/network/bgp-control-plane/) 📖
 - [Cilium BGP Service Advertisement](https://www.youtube.com/watch?v=Nzh2jc6qW6Y) 📺
@@ -137,6 +163,7 @@ You can find all you need to know about the Certification on its official [page]
 - [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/) 📖
 
 ## Next Steps
+
 Finished this guide and want to learn more? Dive deep into the world of Cilium with more comprehensive [hands-on labs](https://labs-map.isovalent.com/).
 
 ![](./files/world-of-cilium.png)
