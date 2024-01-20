@@ -20,7 +20,7 @@ You can find all you need to know about the Certification on its official [page]
 
 #### Resources
 
-- [Cilium Quick Installation](https://docs.cilium.io/en/latest/gettingstarted/k8s-install-default/#k8s-install-quick) 📖
+- [Cilium Quick Installation - Cilium Docs](https://docs.cilium.io/en/latest/gettingstarted/k8s-install-default/#k8s-install-quick) 📖
 - [eCHO episode 1: Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA&list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC&index=114) 📺
 - [Getting Started with Cilium - Lab](https://isovalent.com/labs/getting-started-with-cilium/) 🥼
 - [Tutorial: Tips and Tricks to install Cilium](https://isovalent.com/blog/post/tutorial-tips-and-tricks-to-install-cilium/) 📖
@@ -92,7 +92,7 @@ You can find all you need to know about the Certification on its official [page]
 - [Cilium Service Mesh – Everything You Need to Know](https://isovalent.com/blog/post/cilium-service-mesh/) 📖
 - [Cilium Ingress Controller - Lab](https://isovalent.com/labs/cilium-ingress-controller/) 🥼
 - [Cilium Transparent Encryption with IPSec and WireGuard - Lab](https://isovalent.com/labs/cilium-transparent-encryption-with-ipsec-and-wireguard/) 🥼
-- [Gateway API support - Cilium Docs](https://docs.cilium.io/en/stable/network/servicemesh/gateway-api/gateway-api/) 📖
+- [Gateway API Support - Cilium Docs](https://docs.cilium.io/en/stable/network/servicemesh/gateway-api/gateway-api/) 📖
 - [Cilium Gateway API - Lab](https://isovalent.com/labs/gateway-api/) 🥼
 - [Advanced Gateway API Use Cases - Lab](https://isovalent.com/labs/advanced-gateway-api-use-cases/) 📖
 - [Ingress Controllers or the Kubernetes Gateway API? Which Is Right for You?](https://thenewstack.io/ingress-controllers-or-the-kubernetes-gateway-api-which-is-right-for-you/) 📖
@@ -112,7 +112,7 @@ You can find all you need to know about the Certification on its official [page]
 
 - [eCHO episode 2: Introduction to Hubble](https://www.youtube.com/live/hD2iJUyIXQw?si=WqWaY7_jN2B-sRz5) 📺
 - [Observability Use Cases](https://cilium.io/#observability) 📖
-- [Setting up Hubble Observability](https://docs.cilium.io/en/latest/gettingstarted/hubble_setup/#hubble-setup) 📖
+- [Setting up Hubble Observability - Cilium Docs](https://docs.cilium.io/en/latest/gettingstarted/hubble_setup/#hubble-setup) 📖
 - [Layer 7 Protocol Visibility - Cilium Docs](https://docs.cilium.io/en/stable/observability/visibility/) 📖
 - [Back to Basics – L7 Flow Visibility](https://isovalent.com/videos/back-to-basics-l7-flow-visibility/) 📺
 - [Cilium IPv6 Networking and Observability - Lab](https://isovalent.com/labs/ipv6-networking-and-observability/) 🥼
@@ -162,7 +162,7 @@ You can find all you need to know about the Certification on its official [page]
 #### Resources
 
 - [Cilium BGP Use Cases](https://cilium.io/use-cases/bgp/) 📖
-- [Cilium BGP Control Plane](https://docs.cilium.io/en/stable/network/bgp-control-plane/) 📖
+- [Cilium BGP Control Plane - Cilium Docs](https://docs.cilium.io/en/stable/network/bgp-control-plane/) 📖
 - [Cilium BGP Service Advertisement](https://www.youtube.com/watch?v=Nzh2jc6qW6Y) 📺
 - [BGP on Cilium - Lab](https://isovalent.com/labs/bgp-on-cilium/) 🥼
 - [Cilium LoadBalancer IPAM and BGP Service Advertisement - Lab](https://isovalent.com/labs/lb-ipam-bgp-service/) 🥼
