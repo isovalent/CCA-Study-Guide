@@ -24,6 +24,7 @@ You can find all you need to know about the Certification on its official [page]
 - [eCHO episode 1: Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA&list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC&index=114) 📺
 - [Getting Started with Cilium - Lab](https://isovalent.com/labs/getting-started-with-cilium/) 🥼
 - [Tutorial: Tips and Tricks to install Cilium](https://isovalent.com/blog/post/tutorial-tips-and-tricks-to-install-cilium/) 📖
+- [Cilium Command Cheat Sheet - Cilium Docs](https://docs.cilium.io/en/stable/cheatsheet/) 📖
 
 ### Architecture - 20%
 
@@ -43,8 +44,11 @@ You can find all you need to know about the Certification on its official [page]
 - [Cilium Component Overview - Cilium Docs](https://docs.cilium.io/en/stable/overview/component-overview/) 📖
 - [Cilium eBPF Datapath - Cilium Docs](https://docs.cilium.io/en/stable/network/ebpf/) 📖
 - [IP Address Management (IPAM) - Cilium Docs](https://docs.cilium.io/en/stable/network/concepts/ipam/) 📖
+- [Cilium L2 Announcements - Cilium Docs](https://docs.cilium.io/en/stable/network/l2-announcements/) 📖
+- [Cilium LoadBalancer IPAM and L2 Service Announcement - Lab](https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/) 🥼
 - [Cilium Technical Deep Dive: Under the Hood - Talk](https://www.youtube.com/watch?v=UZg_2SXDKis) 📺
 - [Cilium's BPF kernel datapath revamped - Talk](https://www.youtube.com/watch?v=u0PGas8D24w) 📺
+- [Terminology - Cilium Docs](https://docs.cilium.io/en/stable/gettingstarted/terminology/) 📖
 
 ### Network Policy - 18%
 
@@ -93,6 +97,8 @@ You can find all you need to know about the Certification on its official [page]
 - [Advanced Gateway API Use Cases - Lab](https://isovalent.com/labs/advanced-gateway-api-use-cases/) 📖
 - [Ingress Controllers or the Kubernetes Gateway API? Which Is Right for You?](https://thenewstack.io/ingress-controllers-or-the-kubernetes-gateway-api-which-is-right-for-you/) 📖
 - [A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://isovalent.com/blog/post/cilium-gateway-api/) 📖
+- [Mutual Authentication in Cilium - Cilium Docs](https://docs.cilium.io/en/stable/network/servicemesh/mutual-authentication/mutual-authentication/#mutual-authentication-in-cilium) 📖
+- [Mutual Authentication in Cilium - Lab](https://isovalent.com/labs/mutual-authentication-with-cilium/) 🥼
 
 ### Network Observability - 10%
 
@@ -121,6 +127,7 @@ You can find all you need to know about the Certification on its official [page]
 #### Resources
 
 - [Cilium Cluster Mesh Use Cases](https://cilium.io/use-cases/cluster-mesh/) 📖
+- [Setting Up Cluster Mesh - Cilium Docs](https://docs.cilium.io/en/stable/network/clustermesh/clustermesh/#setting-up-cluster-mesh) 📖
 - [Cilium Cluster Mesh - Lab](https://isovalent.com/labs/cilium-cluster-mesh/) 🥼
 - [Connecting Klusters on the Edge with Deep Dive into Cilium Cluster Mesh - Talk](https://www.youtube.com/watch?v=UcsEVnFtrLY) 📺
 - [An Introduction to Cilium Cluster Mesh](https://www.youtube.com/watch?v=4bJkk7ghx7A) 📺
@@ -143,6 +150,7 @@ You can find all you need to know about the Certification on its official [page]
 - [eBPF - The Future of Networking & Security](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/) 📖
 - [What is eBPF?](https://ebpf.io/what-is-ebpf/) 📖
 - [Getting started with eBPF - Lab](https://isovalent.com/labs/getting-started-with-ebpf/) 🥼
+- [eBPF - Host Routing - Cilium Docs](https://docs.cilium.io/en/stable/operations/performance/tuning/#ebpf-host-routing) 📖
 
 ### BGP and External Networking 6%
 
@@ -161,6 +169,8 @@ You can find all you need to know about the Certification on its official [page]
 - [Advanced BGP Features - Lab](https://isovalent.com/labs/advanced-bgp-features/) 🥼
 - [BGP with Cilium](https://nicovibert.com/2022/07/21/bgp-with-cilium/) 📖
 - [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/) 📖
+- [Cilium Egress Gateway - Cilium Docs](https://docs.cilium.io/en/stable/network/egress-gateway/) 📖
+- [Cilium Egress Gateway - Lab](https://isovalent.com/labs/cilium-egress-gateway/) 🥼
 
 ## Next Steps
 
