@@ -44,8 +44,6 @@ You can find all you need to know about the Certification on its official [page]
 - [Cilium Component Overview - Cilium Docs](https://docs.cilium.io/en/stable/overview/component-overview/) 📖
 - [Cilium eBPF Datapath - Cilium Docs](https://docs.cilium.io/en/stable/network/ebpf/) 📖
 - [IP Address Management (IPAM) - Cilium Docs](https://docs.cilium.io/en/stable/network/concepts/ipam/) 📖
-- [Cilium L2 Announcements - Cilium Docs](https://docs.cilium.io/en/stable/network/l2-announcements/) 📖
-- [Cilium LoadBalancer IPAM and L2 Service Announcement - Lab](https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/) 🥼
 - [Cilium Technical Deep Dive: Under the Hood - Talk](https://www.youtube.com/watch?v=UZg_2SXDKis) 📺
 - [Cilium's BPF kernel datapath revamped - Talk](https://www.youtube.com/watch?v=u0PGas8D24w) 📺
 - [Terminology - Cilium Docs](https://docs.cilium.io/en/stable/gettingstarted/terminology/) 📖
@@ -171,6 +169,8 @@ You can find all you need to know about the Certification on its official [page]
 - [Connecting your Kubernetes island to your network with Cilium BGP](https://isovalent.com/blog/post/connecting-your-kubernetes-island-to-your-network-with-cilium-bgp/) 📖
 - [Cilium Egress Gateway - Cilium Docs](https://docs.cilium.io/en/stable/network/egress-gateway/) 📖
 - [Cilium Egress Gateway - Lab](https://isovalent.com/labs/cilium-egress-gateway/) 🥼
+- [Cilium L2 Announcements - Cilium Docs](https://docs.cilium.io/en/stable/network/l2-announcements/) 📖
+- [Cilium LoadBalancer IPAM and L2 Service Announcement - Lab](https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/) 🥼
 
 ## Next Steps
 
