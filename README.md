@@ -146,7 +146,7 @@ You can find all you need to know about the Certification on its official [page]
 - [What is eBPF?](https://isovalent.com/books/ebpf/) 📖
 - [CNI Benchmark: Understanding Cilium Network Performance](https://cilium.io/blog/2021/05/11/cni-benchmark/) 📖
 - [eBPF - The Future of Networking & Security](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/) 📖
-- [What is eBPF?](https://ebpf.io/what-is-ebpf/) 📖
+- [Learning eBPF](https://isovalent.com/books/learning-ebpf/) 📖
 - [Getting started with eBPF - Lab](https://isovalent.com/labs/getting-started-with-ebpf/) 🥼
 - [eBPF - Host Routing - Cilium Docs](https://docs.cilium.io/en/stable/operations/performance/tuning/#ebpf-host-routing) 📖
 
