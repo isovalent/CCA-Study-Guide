@@ -132,7 +132,7 @@ You can find all you need to know about the Certification on its official [page]
 - [eCHO episode 41: Cilium Cluster Mesh](https://www.youtube.com/watch?v=VBOONHW65NU) 📺
 - [eCHO Episode 94: Cluster API and Cilium Cluster Mesh](https://m.youtube.com/watch?v=HVqQhMRpUR4&pp=ygUKI2Fic29saXRlbQ%3D%3D) 📺
 
-### eBPF - 18%
+### eBPF - 10%
 
 #### Topics
 
