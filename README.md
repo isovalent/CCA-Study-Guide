@@ -1,6 +1,7 @@
 # Cilium Certified Associate Study Guide
 
-![](files/ogimage.jpeg)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
+![cca-banner](files/ogimage.jpeg)
 The aim of this study guide is to help the Cilium community prepare for the CNCF's [Cilium Certified Associate(CCA)](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/) Exam 🐝
 
 ## About the Certification
